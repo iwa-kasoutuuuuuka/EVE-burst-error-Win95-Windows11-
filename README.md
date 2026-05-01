@@ -28,4 +28,4 @@ This patch is a Modern Compatibility Layer (Wrapper) for the 1997 Win95 edition 
 3. **ゲームを起動**
 
 ---
-Produced by Antigravity AI
+
