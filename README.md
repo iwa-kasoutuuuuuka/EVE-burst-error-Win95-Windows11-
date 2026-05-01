@@ -24,7 +24,7 @@ This patch is a Modern Compatibility Layer (Wrapper) for the 1997 Win95 edition 
 ## 📥 導入方法 / How to Install
 1. **正規のインストールフォルダを開く**
 2. **パッチファイルをコピー**
-   - 同梱されている ersion.dll 等の DLL ファイルを、ゲームの実行ファイルと同じ場所にコピーしてください。
+   - 同梱されている ersion.dll 等の DLL ファイルを、ゲームの実行ファイルと同じ場所にコピーしてください。
 3. **ゲームを起動**
 
 ---
