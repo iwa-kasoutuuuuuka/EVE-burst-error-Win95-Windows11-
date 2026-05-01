@@ -1,0 +1,44 @@
+[21:29:34.538] === EVE Burst Error Compatibility Wrapper v3.2 ===
+[21:29:34.538] Wrapper loaded as: E:\EVE_Win95‰ü\VERSION.dll
+[21:29:34.538] Loaded mapping: 'OP.AVI' -> 'MEDIA\KOJIROU\file_000934.mp4'
+[21:29:34.538] Loaded mapping: 'ED.AVI' -> 'MEDIA\MARINA\file_001783.mp4'
+[21:29:34.538] Loaded mapping: 'MOVIE.AVI' -> 'MEDIA\SYSTEM\file_000015.mp4'
+[21:29:34.538] SUCCESS: Hooked CreateFileA in KERNEL32.dll
+[21:29:34.538] SUCCESS: Hooked GetDriveTypeA in KERNEL32.dll
+[21:29:34.538] SUCCESS: Hooked GetDeviceCaps in GDI32.dll
+[21:29:34.538] SUCCESS: Hooked ChangeDisplaySettingsA in USER32.dll
+[21:29:34.538] Initialization complete.
+[21:29:34.546] === EVE Burst Error Compatibility Wrapper v3.2 ===
+[21:29:34.546] Wrapper loaded as: E:\EVE_Win95‰ü\VERSION.dll
+[21:29:34.546] Loaded mapping: 'OP.AVI' -> 'MEDIA\KOJIROU\file_000934.mp4'
+[21:29:34.546] Loaded mapping: 'ED.AVI' -> 'MEDIA\MARINA\file_001783.mp4'
+[21:29:34.546] Loaded mapping: 'MOVIE.AVI' -> 'MEDIA\SYSTEM\file_000015.mp4'
+[21:29:34.548] SUCCESS: Hooked CreateFileA in KERNEL32.dll
+[21:29:34.548] SUCCESS: Hooked GetDriveTypeA in KERNEL32.dll
+[21:29:34.548] SUCCESS: Hooked GetDeviceCaps in GDI32.dll
+[21:29:34.548] SUCCESS: Hooked ChangeDisplaySettingsA in USER32.dll
+[21:29:34.548] Initialization complete.
+[21:29:34.564] DLL unloading.
+[21:29:34.581] DLL unloading.
+[21:37:37.185] === EVE Burst Error Compatibility Wrapper v4.0 (ADVANCED) ===
+[21:37:37.190] Loaded mapping: 'OP.AVI' -> 'MEDIA\KOJIROU\file_000934.mp4'
+[21:37:37.190] Loaded mapping: 'ED.AVI' -> 'MEDIA\MARINA\file_001783.mp4'
+[21:37:37.190] Loaded mapping: 'MOVIE.AVI' -> 'MEDIA\SYSTEM\file_000015.mp4'
+[21:37:37.190] SUCCESS: Hooked CreateFileA in KERNEL32.dll
+[21:37:37.190] SUCCESS: Hooked GetDriveTypeA in KERNEL32.dll
+[21:37:37.190] SUCCESS: Hooked GetFileAttributesA in KERNEL32.dll
+[21:37:37.190] SUCCESS: Hooked GetDeviceCaps in GDI32.dll
+[21:37:37.190] SUCCESS: Hooked ChangeDisplaySettingsA in USER32.dll
+[21:37:37.190] Advanced Initialization complete.
+[21:37:37.204] === EVE Burst Error Compatibility Wrapper v4.0 (ADVANCED) ===
+[21:37:37.204] Loaded mapping: 'OP.AVI' -> 'MEDIA\KOJIROU\file_000934.mp4'
+[21:37:37.204] Loaded mapping: 'ED.AVI' -> 'MEDIA\MARINA\file_001783.mp4'
+[21:37:37.204] Loaded mapping: 'MOVIE.AVI' -> 'MEDIA\SYSTEM\file_000015.mp4'
+[21:37:37.204] SUCCESS: Hooked CreateFileA in KERNEL32.dll
+[21:37:37.204] SUCCESS: Hooked GetDriveTypeA in KERNEL32.dll
+[21:37:37.204] SUCCESS: Hooked GetFileAttributesA in KERNEL32.dll
+[21:37:37.204] SUCCESS: Hooked GetDeviceCaps in GDI32.dll
+[21:37:37.204] SUCCESS: Hooked ChangeDisplaySettingsA in USER32.dll
+[21:37:37.204] Advanced Initialization complete.
+[21:37:37.232] DLL unloading.
+[21:37:37.269] DLL unloading.
