@@ -29,3 +29,4 @@ This patch is a Modern Compatibility Layer (Wrapper) for the 1997 Win95 edition 
 
 ---
 
+だれも使わないだろうけど、万が一使おうって人はダメでも泣かないでくださいm(__)m
