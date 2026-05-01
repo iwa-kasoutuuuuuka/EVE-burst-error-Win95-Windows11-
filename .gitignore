@@ -1,0 +1,23 @@
+﻿# Original Game Data (Copyrighted)
+*.DAT
+*.HLP
+*.CNT
+AUTORUN.INF
+CD1.ICO
+MEDIA/
+
+# Build Artifacts
+build/
+*.obj
+*.lib
+*.exp
+*.exe
+*.dll
+*.pdb
+.vs/
+CMakeFiles/
+CMakeCache.txt
+
+# OS generated files
+Thumbs.db
+Desktop.ini
